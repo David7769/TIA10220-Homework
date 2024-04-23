@@ -1,6 +1,6 @@
 package hw2;
 
-public class TestNineNine3 {
+public class TestNineNine03 {
 	public static void main(String[] args) {
 		int i = 0;
 		while (i < 9) {
@@ -13,5 +13,4 @@ public class TestNineNine3 {
 			System.out.println();
 		}
 	}
-
 }
