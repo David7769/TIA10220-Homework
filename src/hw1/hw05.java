@@ -13,7 +13,7 @@ public class hw05 {
     	 
         b1 = (int)(p * Math.pow( (1+i) , m ));
         System.out.printf ( "%d\t%d\t" ,m,b1 );
-   }
-   System.out.println ("----------------------------------------");
+   System.out.println ();
+     }
    }
 }
