@@ -1,4 +1,4 @@
-package hw2;
+package Hw2;
 
 public class TestNineNine02 {
 	public static void main(String[] args) {
