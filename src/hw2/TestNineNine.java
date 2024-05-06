@@ -1,4 +1,4 @@
-package Hw2;
+package hw2;
 
 // 1.for + while
 public class TestNineNine {
